@@ -13,3 +13,7 @@ Users have the ability to examine sales trends, performance by country, the best
 
 ## From Data to Dashboard
 The project commenced with a disorganized chocolate sales dataset that exhibited inconsistencies and gaps in data. Initially, I undertook the task of cleaning the data, addressing missing values, standardizing the information, and incorporating new columns such as Quarter, Year, Day, and Month. Ultimately, I converted the cleaned data into a structured format and utilized it to develop an interactive dashboard in Excel.
+
+### Source Data
+
+![Source Data](.png)
