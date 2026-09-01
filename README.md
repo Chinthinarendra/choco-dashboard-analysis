@@ -10,4 +10,6 @@ A dashboard for chocolate sales has been developed to assess and illustrate sale
 The data encompasses chocolate sales information, which includes sales amounts, the number of boxes shipped, product details, countries, sales representatives, years, quarters, and months.
 ### What users can explore or learn from it
 Users have the ability to examine sales trends, performance by country, the best and worst performing products, the effectiveness of sales personnel, as well as annual and monthly sales patterns to gain insights into the overall performance of the business.
+
 ## From Data to Dashboard
+The project commenced with a disorganized chocolate sales dataset that exhibited inconsistencies and gaps in data. Initially, I undertook the task of cleaning the data, addressing missing values, standardizing the information, and incorporating new columns such as Quarter, Year, Day, and Month. Ultimately, I converted the cleaned data into a structured format and utilized it to develop an interactive dashboard in Excel.
