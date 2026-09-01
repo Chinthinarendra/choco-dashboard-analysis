@@ -16,4 +16,4 @@ The project commenced with a disorganized chocolate sales dataset that exhibited
 
 ### Source Data
 
-![Source Data](.png)
+![Source Data](data.png)
