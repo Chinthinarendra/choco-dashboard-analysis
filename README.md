@@ -74,3 +74,13 @@ The project commenced with a unstructured chocolate sales dataset that exhibited
 | `dashboard.png` | Preview of the final dashboard |
 | `data.png` | Preview of the source data |
 | `README.md` | Project documentation |
+
+## How to Download and Use
+
+1. Download `your-dashboard.xlsx`.
+2. Open the workbook using Microsoft Excel.
+3. Navigate to the dashboard worksheet.
+4. Use the available filters and slicers to explore the results.
+
+[Download the Excel Dashboard](your-dashboard.xlsx)
+
