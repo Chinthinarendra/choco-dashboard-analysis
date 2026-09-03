@@ -77,10 +77,20 @@ The project commenced with a unstructured chocolate sales dataset that exhibited
 
 ## How to Download and Use
 
-1. Download `your-dashboard.xlsx`.
+1. Download `choco-dashboard.xlsx`.
 2. Open the workbook using Microsoft Excel.
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](choco dash)
+[Download the Excel Dashboard](choco-dashboard.xlsx)
+
+## Tools and Skills
+- Microsoft Excel
+- Excel formulas
+- PivotTables
+- PivotCharts
+- Slicers
+- Data analysis
+- Dashboard design
+- Data visualization
 
