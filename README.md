@@ -17,3 +17,49 @@ The project commenced with a unstructured chocolate sales dataset that exhibited
 ### Source Data
 
 ![Source Data](data.png)
+## Dashboard Features
+#KPI Cards
+Total Sales
+Total Profit
+Total Orders
+Total Customers
+Average Order Value
+#Interactive Filters / Slicers
+Date / Year
+City
+Category
+Product
+Customer
+#Charts & Visualizations
+Sales by month → Line chart
+Sales by category → Bar/Column chart
+Sales by city → Bar chart
+Top products → Bar chart
+Profit vs Sales → Combo chart
+#Trend Analysis
+Monthly/Yearly sales trends
+Growth or decline
+Year-over-year comparison
+#Top & Bottom Performers
+Top 5 products
+Top 5 customers
+Bottom-performing products
+Best-performing cities
+#Drill-down / Detailed Table
+Allows users to see detailed records behind the summary.
+#Conditional Formatting
+Highlight high/low sales
+Positive/negative growth
+Target achievement
+#Dynamic Dashboard
+Charts and KPIs automatically change when filters/slicers are selected.
+#Comparison
+Actual vs Target
+2023 vs 2024
+Current month vs previous month
+#Clean User Interface
+Clear title
+Consistent formatting
+Easy-to-read charts
+Logical layout
+Minimal unnecessary information
