@@ -12,7 +12,7 @@ The data encompasses chocolate sales information, which includes sales amounts, 
 Users have the ability to examine sales trends, performance by country, the best and worst performing products, the effectiveness of sales personnel, as well as annual and monthly sales patterns to gain insights into the overall performance of the business.
 
 ## From Data to Dashboard
-The project commenced with a disorganized chocolate sales dataset that exhibited inconsistencies and gaps in data. Initially, I undertook the task of cleaning the data, addressing missing values, standardizing the information, and incorporating new columns such as Quarter, Year, Day, and Month. Ultimately, I converted the cleaned data into a structured format and utilized it to develop an interactive dashboard in Excel.
+The project commenced with a unstructured chocolate sales dataset that exhibited inconsistencies and gaps in data. Initially, I understook the task of cleaning the data, addressing missing values, standardizing the information, and incorporating new columns such as Quarter, Year, Day, and Month. Ultimately, I converted the cleaned data into a structured format on power query in excel and utilized it to develop an interactive dashboard in Excel.
 
 ### Source Data
 
