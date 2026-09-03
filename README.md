@@ -17,13 +17,15 @@ The project commenced with a unstructured chocolate sales dataset that exhibited
 ### Source Data
 
 ![Source Data](data.png)
+
+
 ## Dashboard Features
-#KPI Cards
-Total Sales
-Total Profit
-Total Orders
-Total Customers
-Average Order Value
+##KPI Cards
+-Total Sales
+-Total Profit
+-Total Orders
+-Total Customers
+-Average Order Value
 #Interactive Filters / Slicers
 Date / Year
 City
